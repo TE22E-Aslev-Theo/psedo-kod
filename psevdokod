@@ -1,0 +1,12 @@
+skriv "meny väderprogram" 
+(ny rad) "skriv ut tempratur" 
+(ny rad) "skriv ut vind" 
+(ny rad) "ange vad:"
+
+läs in ett numer till en variabel
+
+om variabeln är 1 så skriv "det är 9 grader"
+
+annars om variabeln är 2 så skriv "Det är 9 sekund meter vind"
+
+annars skriv "fel"
